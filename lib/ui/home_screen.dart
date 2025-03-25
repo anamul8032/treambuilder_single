@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-import '../common/common_widgets.dart';
+import '../common/function.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});
